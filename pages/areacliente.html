@@ -1,0 +1,45 @@
+<div class="container-areacliente">
+    <h1>Contador Online</h1>
+    <form name='form1' class='formlogin' id='form1' action='https://app.contmaticcontadoronline.com.br/efetualoginnovo'
+        method='post'>
+
+        <label for="validationCustomUsername">CNPJ</label>
+        <div class="input-group">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroupPrepend">@</span>
+            </div>
+            <input type='text' class="form-control" name='documento' id='contmatic_documento' placeholder="CNPJ">
+
+            <div class="invalid-feedback">
+                Por favor, preencha o código.
+            </div>
+        </div>
+
+        <label for="validationCustomUsername">Login</label>
+        <div class="input-group">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroupPrepend">@</span>
+            </div>
+            <input type='text' class="form-control" name='login' id='login' placeholder="Login">
+            <div class="invalid-feedback">
+                Por favor, preencha o código.
+            </div>
+        </div>
+
+        <label for="validationCustomUsername">Senha</label>
+        <div class="input-group">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroupPrepend"><i class="fas fa-lock" style="padding: 5px 0;"></i></span>
+            </div>
+            <input type='password' class="form-control" name='senha ' id='senha ' placeholder="Senha">
+            <div class="invalid-feedback">
+                Por favor, preencha o código.
+            </div>
+        </div>
+        <br>
+        <input type='submit' value='Acessar' class='btn_acessar'>
+        <input type='hidden' name='contadorId' id='contadorId' value='53772'>
+        <br>
+        <a href='https://app.contmaticcontadoronline.com.br/painel/esqueci'>Esqueci minha senha</a>
+    </form>
+</div>

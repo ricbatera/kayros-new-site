@@ -1,0 +1,7 @@
+[01-Dec-2020 15:41:09 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/rdrtec00/kayroscontabil.com.br/mail.php:26) in /home4/rdrtec00/kayroscontabil.com.br/mail.php on line 27
+[01-Dec-2020 15:47:27 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/rdrtec00/kayroscontabil.com.br/mail.php:26) in /home4/rdrtec00/kayroscontabil.com.br/mail.php on line 27
+[03-Dec-2020 10:14:28 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home4/rdrtec00/kayroscontabil.com.br/mail.php on line 9
+[03-Dec-2020 10:16:09 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home4/rdrtec00/kayroscontabil.com.br/mail.php on line 9
+[03-Dec-2020 10:22:02 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home4/rdrtec00/kayroscontabil.com.br/mail.php on line 9
+[03-Dec-2020 10:47:06 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home4/rdrtec00/kayroscontabil.com.br/mail.php on line 9
+[03-Dec-2020 10:51:13 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home4/rdrtec00/kayroscontabil.com.br/mail.php on line 9
